@@ -1,0 +1,1 @@
+# A-duck.-Giving-a-look-at-DuckDB-since-MonetDBLite-was-removed-from-CRAN
